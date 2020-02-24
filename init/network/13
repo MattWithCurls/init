@@ -1,0 +1,3 @@
+cat /etc/resolv.conf ->> proof of information
+nameserver 10.210.41.2 -CPT
+nameserver 10.210.41.3 -JHB
